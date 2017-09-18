@@ -11,6 +11,7 @@ import UIKit
 class DefinitionViewController: UIViewController {
 
     @IBOutlet weak var emojiLabel: UILabel!
+    @IBOutlet weak var emojiDefinition: UILabel!
     
     var emoji = "NO EMOJI"
     
@@ -19,6 +20,22 @@ class DefinitionViewController: UIViewController {
         super.viewDidLoad()
 
         emojiLabel.text = emoji
+        
+        if emoji == "😀" {
+            emojiDefinition.text = "A friendly guy."
+        }
+        if emoji == "😎" {
+            emojiDefinition.text = "A shaded guy."
+        }
+        if emoji == "😡" {
+            emojiDefinition.text = "A not so friendly guy."
+        }
+        if emoji == "💩" {
+            emojiDefinition.text = "A poo."
+        }
+        if emoji == "☠️" {
+            emojiDefinition.text = "A pirate."
+        }
     }
 
     override func didReceiveMemoryWarning() {
