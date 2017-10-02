@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "475E3EF7EEED05725C81B3CB6B98824E24AD1063",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "014DFEF0E0D49CD9C1F41F6B2342FEFF5FD58FC2" : 9223372036854775807,
+    "475E3EF7EEED05725C81B3CB6B98824E24AD1063" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4A04E1A0-9892-4BE2-A967-AE84FA0F2934",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "014DFEF0E0D49CD9C1F41F6B2342FEFF5FD58FC2" : "..",
+    "475E3EF7EEED05725C81B3CB6B98824E24AD1063" : "Emoji_Dictionary\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Emoji_Dictionary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Emoji_Dictionary.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alliance2000\/StackSkillz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "014DFEF0E0D49CD9C1F41F6B2342FEFF5FD58FC2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alliance2000\/Emoji_Dictionary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "475E3EF7EEED05725C81B3CB6B98824E24AD1063"
+    }
+  ]
+}
